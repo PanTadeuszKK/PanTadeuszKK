@@ -2,7 +2,7 @@
 
 I'm Tadeusz, a Computer Science student in Warsaw, building projects that connect machine learning with real-world problems.
 
-**Toolbox**
+**Toolbox:**
 - **Languages:** Java, Python · some experience with C, C++, C#
 - **Data Science:** NumPy, pandas, scikit-learn, Matplotlib
 - **Deep Learning & Vision:** PyTorch, TensorFlow, OpenCV

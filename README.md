@@ -10,7 +10,9 @@ I'm Tadeusz, a Computer Science student in Warsaw, building projects that connec
 - **Databases:** SQL, H2
 - **Tools:** Git, Docker, Maven, JUnit
 
+
 **Currently:** Specializing in Data Science and developing projects alongside my engineering thesis.
+
 
 Away from my desk, I enjoy sailing, running, and learning something new whenever I can.
 
